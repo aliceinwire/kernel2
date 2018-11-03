@@ -1,5 +1,7 @@
 # Welcome to the kernel overlay!
 
+[![Repoman Status](https://travis-ci.org/gentoo/kernel.png)](https://travis-ci.org/gentoo/kernel)
+
 The overlay is hosted on Github and on the official Gentoo Overlays
 infrastructure at:
 
